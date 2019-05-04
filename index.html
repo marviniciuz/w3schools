@@ -6,15 +6,29 @@
             @douglasabnovato
         </title>
         <style>
+            /* Selectors : css comments */
             p{
                 color: red;
                 text-align: center;
             }
+            #titulo1{
+                color:darkblue;
+                text-align: right
+            }
+            .paragrafo1{
+                color:darkgoldenrod;
+                text-align: left;
+            }
+            h1.paragrafo1 {
+                text-align: right;
+                color:darkgreen;
+            }
         </style>
     </head>
     <body>
-        <p>Hello World !</p>
-        <p>These paragraphs are styled with CSS.</p>
-
+        <p id = "titulo1">Hello World !</p>
+        <p class = "paragrafo1">These paragraphs are styled with CSS.</p>
+        <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+        <h1 class="paragrafo1">This heading will not be affected</h1>        
     </body>
 </html>
