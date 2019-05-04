@@ -4,3 +4,5 @@ CSS Tutorial
 2. CSS Introduction
 3. CSS Syntax and Selectors
 4. CSS How to Insert Css
+5. CSS Colors: background, text, border
+6. CSS Background
