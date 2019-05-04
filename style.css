@@ -1,0 +1,17 @@
+
+    p{
+        color: red;
+        text-align: center;
+    }
+    #titulo1{
+        color:darkblue;
+        text-align: right
+    }
+    .paragrafo1{
+        color:darkgoldenrod;
+        text-align: left;
+    }
+    h1.paragrafo1 {
+        text-align: right;
+        color:darkgreen;
+    }
