@@ -7,4 +7,4 @@ CSS Tutorial
 5. CSS Colors: background, text, border
 6. CSS Background: color, image, repeat, attachment, position
 7. CSS Border: style, width, color, individual sides, radius
-8. CSS Margins
+8. CSS Margins - top right bottom left, inherit
