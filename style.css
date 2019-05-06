@@ -101,4 +101,20 @@
 
     p.ex1 {/*inherit : herdar*/
         margin-left: inherit;
-      }
+    }
+
+    div.ex2 {
+        width: 300px;
+        background-color: yellow;
+        border: none;
+        margin: 30px;
+    }
+      
+    div.ex3 {
+        width: 300px;
+        padding: 25px;
+        box-sizing: border-box;
+        background-color: gray;
+        border:none;
+        margin: 30px;
+    }
