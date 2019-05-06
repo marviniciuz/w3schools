@@ -9,3 +9,4 @@ CSS Tutorial
 7. CSS Border: style, width, color, individual sides, radius
 8. CSS Margins - top right bottom left, inherit
 9. CSS Padding - top right bottom left
+parei em CSS Height and Width
