@@ -18,7 +18,7 @@
 
     body {
         background-color: lightblue;
-        background-image: url("image.png");
+        /*background-image: url("image.png");*/
         background-repeat: no-repeat;
         background-position: right top;
         margin-right: 200px;
@@ -118,3 +118,25 @@
         border:none;
         margin: 30px;
     }
+
+    div#modelbox {
+        background-color: lightgrey;
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 100px 90px 90px 100px;
+        color: green; 
+      }
+    p.modelbox{
+        color: black;
+        text-align: left;
+        padding: 50px;
+        margin-right: 400px;
+    }
+
+    div.flower {
+        width: 320px;
+        padding: 10px;
+        border: 5px solid gray;
+        margin: 0;
+      }

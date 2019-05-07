@@ -9,4 +9,6 @@ CSS Tutorial
 7. CSS Border: style, width, color, individual sides, radius
 8. CSS Margins - top right bottom left, inherit
 9. CSS Padding - top right bottom left
-parei em CSS Height and Width
+10. CSS Height and Width
+11. CSS Box Model - 320px (width) + 20px (left + right padding) + 10px (left + right border) + 0px (left + right margin) = 350px
+12. CSS Outline
