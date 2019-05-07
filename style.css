@@ -148,3 +148,25 @@
         padding: 20px;
         text-align: center;
       }
+
+    .textformatting  {
+        border: 1px solid gray;
+        padding: 8px;
+    }
+    
+    .textformatting h1 {
+        text-align: center;
+        text-transform: uppercase;
+        color: #4CAF50;
+    }
+    
+    .textformatting p {
+        text-indent: 50px;
+        text-align: justify;
+        letter-spacing: 3px;
+    }
+    
+    .textformatting a {
+        text-decoration: none;
+        color: #008CBA;
+    }
