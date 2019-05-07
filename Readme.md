@@ -1,4 +1,17 @@
-CSS Tutorial 
+# W3schools - HTML, CSS, Javascript
+
+## Atualização: 06 de maio de 2019 - 23:25
+## Criação: 05 de maio de 2019
+## Prática : @douglasabnovato
+
+![Git](/images/logo-git.png)
+![GitHub](/images/logo-github.png)
+![HTML/CSS](/images/logo-html-css.png)
+
+
+## Aulas
+
+### SESSÂO 1 - CSS Tutorial 
 
 1. CSS HOME
 2. CSS Introduction
@@ -12,3 +25,5 @@ CSS Tutorial
 10. CSS Height and Width
 11. CSS Box Model - 320px (width) + 20px (left + right padding) + 10px (left + right border) + 0px (left + right margin) = 350px
 12. CSS Outline
+
+:. Css do portal w3schools : https://www.w3schools.com/css/default.asp
