@@ -26,5 +26,7 @@
 11. CSS Box Model - 320px (width) + 20px (left + right padding) + 10px (left + right border) + 0px (left + right margin) = 350px
 12. CSS Outline
 13. CSS Text
+14. CSS Fonts
+15. CSS Icons
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp

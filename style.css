@@ -170,3 +170,21 @@
         text-decoration: none;
         color: #008CBA;
     }
+
+    div.icons{
+        background-color: lightgrey;
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 100px 90px 90px 100px;
+        color: green; 
+      }
+
+      div.container{
+        background-color: lightgrey;
+        width: 300px;
+        border: 15px solid black;
+        padding: 50px;
+        margin: 100px 90px 90px 100px;
+        color: black; 
+      }
