@@ -31,5 +31,8 @@
 16. CSS Links
 17. CSS Lists
 18. CSS Tables
+19. CSS Display
+20. CSS Max Width
+21. CSS Position
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
