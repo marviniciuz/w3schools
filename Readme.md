@@ -30,5 +30,6 @@
 15. CSS Icons
 16. CSS Links
 17. CSS Lists
+18. CSS Tables
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
