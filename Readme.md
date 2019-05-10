@@ -28,5 +28,7 @@
 13. CSS Text
 14. CSS Fonts
 15. CSS Icons
+16. CSS Links
+17. CSS Lists
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
