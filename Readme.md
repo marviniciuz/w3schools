@@ -33,6 +33,6 @@
 18. CSS Tables
 19. CSS Display
 20. CSS Max Width
-21. CSS Position
+21. CSS Position : static, relative, fixed, absolute, sticky
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
