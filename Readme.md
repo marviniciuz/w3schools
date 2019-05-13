@@ -34,5 +34,7 @@
 19. CSS Display
 20. CSS Max Width
 21. CSS Position : static, relative, fixed, absolute, sticky
+22. CSS Overflow : visible, hidden, scroll, auto 
+23. CSS Float : left, right, none, inherit 
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
