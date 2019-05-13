@@ -39,5 +39,21 @@
         <p>By default, list items are displayed vertically. In this example we use display: inline-block to display them horizontally (side by side).</p>
         <p>Note: If you resize the browser window, the links will automatically break when it becomes too crowded.</p>
 
+
+        <p>In this example, the image is taller than the element containing it, and it is floated, so it overflows outside of its container:</p>
+
+        <div class="align">
+            <img class="img1" src="pineapple.jpg" alt="Pineapple" width="170" height="170">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum...
+        </div>
+
+        <p style="clear:right">Add a clearfix class with overflow: auto; to the containing element, to fix this problem:</p>
+
+        <div class="clearfix">
+            <img class="img2" src="pineapple.jpg" alt="Pineapple" width="170" height="170">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum...
+        </div>
+        <p>In this example, the image is taller than the element containing it, and it is floated, so it overflows outside of its container:</p>
+
     </body>
 </html>
