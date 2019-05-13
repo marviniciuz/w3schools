@@ -55,3 +55,13 @@ span.a {
   .img2 {
     float: right;
   }
+
+  div.pseudoClass p  {
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+  }
+  
+  div.pseudoClass:hover p {
+    display: block;
+  }
