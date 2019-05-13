@@ -37,5 +37,6 @@
 22. CSS Overflow : visible, hidden, scroll, auto 
 23. CSS Float : left, right, none, inherit
 24. CSS Align  
+25. CSS Combinators
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
