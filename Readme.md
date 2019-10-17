@@ -6,7 +6,7 @@
 
 ![Git](/images/logo-git.png)
 ![GitHub](/images/logo-github.png)
-![HTML/CSS/JS](/images/logo-html-css-js.png)
+![HTML/CSS/JS](/images/logo-html-css-js.jpeg)
 
 
 ## Aulas
