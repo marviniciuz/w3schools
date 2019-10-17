@@ -39,5 +39,6 @@
 24. CSS Align  
 25. CSS Combinators
 26. CSS Pseudo-classes
+27. CSS Pseudo-element
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
