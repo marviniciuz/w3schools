@@ -29,6 +29,7 @@
 - image map
 - background
 - picture element
+17. HTML Tables
 
 ### CSS Tutorial 
 

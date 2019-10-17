@@ -2,8 +2,21 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style.css">
         <title>w3schools - HTML</title>
+        <style>
+            table, th, td {
+                border: 1px solid black;
+                
+            }
+            th, td {
+                padding: 15px;
+            }
+            th {
+                text-align: left;
+            }
+        </style>
     </head>
     <body>
         <!-- @douglasabnovato -->
@@ -25,6 +38,38 @@
             <img src="images\coffee3.jpg" alt="coffee" style="width:100px;height:100px;">
             <img src="images\programming1.jpg" alt="programming" style="width:100px;height:100px;">
             <img src="images\programming2.jpg" alt="programming" style="width:100px;height:100px;">
+        </div>
+        <div>
+            <img src="images\workplace.jpg" alt="workplace" usemap="#workmap" width="400" height="379">
+            <map name="workmap">
+                <area shape="rect" coords="34,44,270,350" alt="Computer" href="https://en.wikipedia.org/wiki/Mobile_phone">
+                <area shape="rect" coords="290,172,333,250" alt="Phone" href="https://en.wikipedia.org/wiki/Computer">
+                <area shape="circle" coords="337,300,44" alt="Coffee" href="https://en.wikipedia.org/wiki/Coffee">
+            </map>
+        </div>
+        <div>
+            <table style="width:100%">
+                <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th> 
+                    <th>Age</th>
+                </tr>
+                <tr>
+                    <td>Jill</td>
+                    <td>Smith</td>
+                    <td>50</td>
+                </tr>
+                <tr>
+                    <td>Eve</td>
+                    <td>Jackson</td>
+                    <td>94</td>
+                </tr>
+                <tr>
+                    <td>John</td>
+                    <td>Doe</td>
+                    <td>80</td>
+                </tr>
+            </table>
         </div>
     </body>
 </html>
