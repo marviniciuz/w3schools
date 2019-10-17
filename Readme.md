@@ -8,7 +8,6 @@
 ![GitHub](/images/logo-github.png)
 ![HTML/CSS/JS](/images/logo-html-css-js.jpeg)
 
-
 ## Aulas
 
 ### SESSÂO 1 - CSS Tutorial 
