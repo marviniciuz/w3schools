@@ -30,6 +30,20 @@
 - background
 - picture element
 17. HTML Tables
+18. HTML Lists
+19. HTML Block and Inline Elements
+20. HTML The class Attribute
+21. HTML The id Attribute
+22. HTML Iframes
+23. HTML Javascript
+24. HTML File Paths
+25. HTML Head
+26.
+27.
+28.
+29.
+30. 
+
 
 ### CSS Tutorial 
 

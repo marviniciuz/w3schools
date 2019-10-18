@@ -16,21 +16,28 @@
             th {
                 text-align: left;
             }
+            .cities {
+                background-color: black;
+                color: white;
+                margin: 20px;
+                padding: 20px;
+            }
+            #myHeader {
+                background-color: lightblue;
+                color: black;
+                padding: 40px;
+                text-align: center;
+            }            
         </style>
     </head>
     <body>
-        <!-- @douglasabnovato -->
-        <h6>@douglasabnovato</h6>
-        <p>conteúdo de web</p>
+        <!-- @douglasabnovato -->        
+        <h1 id="myHeader">@douglasabnovato</h1>
         <div>
             <h1 style="background-color:Tomato;">Tomato</h1>
             <h1 style="background-color:Orange;">Orange</h1>
             <h1 style="background-color:DodgerBlue;">DodgerBlue</h1>
             <h1 style="background-color:MediumSeaGreen;">MediumSeaGreen</h1>
-            <h1 style="background-color:Gray;">Gray</h1>
-            <h1 style="background-color:SlateBlue;">SlateBlue</h1>
-            <h1 style="background-color:Violet;">Violet</h1>
-            <h1 style="background-color:LightGray;">LightGray</h1>
         </div>
         <div>
             <img src="images\coffee1.jpg" alt="coffee" style="width:100px;height:100px;">
@@ -38,6 +45,9 @@
             <img src="images\coffee3.jpg" alt="coffee" style="width:100px;height:100px;">
             <img src="images\programming1.jpg" alt="programming" style="width:100px;height:100px;">
             <img src="images\programming2.jpg" alt="programming" style="width:100px;height:100px;">
+            <img src="images\workplace.jpg" alt="programming" style="width:100px;height:100px;">
+            <img src="images\coding.jpg" alt="programming" style="width:100px;height:100px;">
+            <img src="images\avatar.png" alt="programming" style="width:100px;height:100px;">
         </div>
         <div>
             <img src="images\workplace.jpg" alt="workplace" usemap="#workmap" width="400" height="379">
@@ -71,5 +81,82 @@
                 </tr>
             </table>
         </div>
+        <div>
+            <h2>An Unordered HTML List</h2>
+            <ul>
+                <li>Coffee</li>
+                <li>Tea</li>
+                <li>Milk</li>
+            </ul>  
+            
+            <h2>An Ordered HTML List</h2>                
+            <ol>
+                <li>Coffee</li>
+                <li>Tea</li>
+                <li>Milk</li>
+            </ol> 
+        </div>
+        <div>
+            <h4>My <span style="color:red">Important</span> Heading</h4>
+        </div>
+        <div class="cities">
+            <h2>London</h2>
+            <p>London is the capital of England.</p>
+        </div>
+        
+        <div class="cities">
+            <h2>Paris</h2>
+            <p>Paris is the capital of France.</p>
+        </div>
+        
+        <div class="cities">
+            <h2>Tokyo</h2>
+            <p>Tokyo is the capital of Japan.</p>
+        </div>
+        <div>
+            <a href="#myHeader">Home</a>
+        </div>
+        <div>
+            <h2>Iframe - Target for a Link</h2>
+
+            <iframe height="300px" width="100%" src="demo_iframe.htm" name="iframe_a"></iframe>
+            
+            <p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
+            
+            <p>When the target of a link matches the name of an iframe, the link will open in the iframe.</p>
+        </div>
+        <div>
+            <p id="demo">Javascript - um teste de estilização de elemento.</p>
+            <button type="button" onclick="myFunction()">click me</button>
+        </div>
+        <div>
+            <img id="myImage" src="pic_bulboff.gif" width="100" height="180">
+            <p>
+                <button type="button" onclick="light(1)">Light On</button>
+                <button type="button" onclick="light(0)">Light Off</button>
+            </p>
+        </div>
+        <div>
+            <h2>Using a Full URL File Path</h2>
+            <img src="https://www.w3schools.com/images/picture.jpg" alt="Mountain" style="width:300px">
+            <h2>Using a Relative File Path</h2>
+            <img src="images/picture.jpg" alt="Mountain" style="width:300px">
+        </div>
+        <script>
+            function myFunction(){
+                document.getElementById("demo").style.fontSize = "25px";
+                document.getElementById("demo").style.color = "red";
+                document.getElementById("demo").style.backgroundColor  = "yellow";
+            }
+            function light(sw) {
+                var pic;
+                if (sw == 0) {
+                    pic = "pic_bulboff.gif"
+                } else {
+                    pic = "pic_bulbon.gif"
+                }
+                document.getElementById('myImage').src = pic;
+            }
+        </script>
     </body>
 </html>
