@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title>Javascript</title>
+        <style>
+            *{
+                box-sizing: border-box;
+            }
+            body{
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            /*style the header*/
+            header{
+                background-color:#666;
+                padding: 30px;
+                text-align: center;
+                font-size: 35px;
+                color: white;
+            }
+            /*container for flexboxes*/
+            section{
+                display: -webkit-flex;
+                display: flex;
+            }
+            /*style navigation menu*/
+            nav{
+                -webkit-flex: 1;
+                -ms-flex: 1;
+                flex: 1;
+                background-color: #ccc;
+                padding: 25px;
+            }
+            /*style the list inside the menu*/
+            nav ul{
+                list-style-type: none;
+                padding: 4;
+            }
+            /*style the content */
+            article {
+                -webkit-flex: 3;
+                -ms-flex: 3;
+                flex: 3;
+                background-color: #f1f1f1;
+                padding: 10px;
+            }
+            /*style the footer */
+            footer {
+                background-color: #777;
+                padding: 10px;
+                text-align: center;
+                color: white;
+            }
+            /**
+              * Responsive layout - makes the menu and the content (inside the section) 
+              * sit on top of each other instead of next to each other 
+              */
+            @media (max-width: 600px) {
+                section {
+                    -webkit-flex-direction: column;
+                    flex-direction: column;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>ReactJS</h1>
+        </header>
+        <section>
+            <nav>
+                <ul>
+                    <li><a href="#">ReactJS</a></li>
+                    <li><a href="#">React Native</a></li>
+                    <li><a href="#">NodeJS</a></li>
+                </ul>
+            </nav>
+            <article>
+                <h4>ReactJS</h4>
+                <p>O React (também denominado React.js ou ReactJS) é uma biblioteca 
+                    JavaScript de código aberto com foco em criar interfaces de usuário 
+                    (frontend) em páginas web. É mantido pelo Facebook, Instagram, 
+                    outras empresas e uma comunidade de desenvolvedores individuais. 
+                    É utilizado nos sites da Netflix, Imgur, Feedly, Airbnb, SeatGeek, 
+                    HelloSign, Walmart e outros.[1]</p>
+
+                <p>Em 2015, o Facebook anunciou o módulo React Native, que em conjunto com o 
+                    React, possibilita o desenvolvimento de aplicativos para Android e 
+                    iOS utilizando componentes de interface de usuário nativos de ambas 
+                    plataformas, sem precisar recorrer ao HTML.[2]</p>
+                        
+                <p>Na pesquisa de 2018 sobre hábitos de desenvolvedores do site Stack Overflow, 
+                    o React foi a terceira biblioteca ou framework mais citado pelos usuários 
+                    e desenvolvedores profissionais, ficando atrás somente do Node.js e Angular, 
+                    respectivamente. [3]</p>
+            </article>
+        </section>
+        <footer>
+            <p>@douglasabnovato</p>
+        </footer>
+    </body>
+</html>
