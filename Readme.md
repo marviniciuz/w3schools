@@ -48,6 +48,13 @@
 33. HTML and XHTML
 #### HTML Forms
 34. HTML Forms
+35. HTML Form Elements
+36. HTML Input Types
+37. HTML Input Attributes
+#### HTML APIs
+#### HTML Multimedia
+#### HTML5 Canvas
+#### HTML5 SVG
 
 ### CSS Tutorial 
 
