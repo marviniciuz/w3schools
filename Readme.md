@@ -40,12 +40,14 @@
 25. HTML Head
 26. HTML Layout
 27. HTML Responsive Web Design
-28.
-29.
-30. 
-31.
-32.
-33.
+28. HTML Computer Code Elements
+29. HTML Entities
+30. HTML Symbols
+31. HTML Encoding (Character Sets)
+32. HTML Uniform Resource Locators
+33. HTML and XHTML
+#### HTML Forms
+34. HTML Forms
 
 ### CSS Tutorial 
 
