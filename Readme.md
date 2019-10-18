@@ -39,11 +39,13 @@
 24. HTML File Paths
 25. HTML Head
 26. HTML Layout
-27.
+27. HTML Responsive Web Design
 28.
 29.
 30. 
-
+31.
+32.
+33.
 
 ### CSS Tutorial 
 
