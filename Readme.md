@@ -38,7 +38,7 @@
 23. HTML Javascript
 24. HTML File Paths
 25. HTML Head
-26.
+26. HTML Layout
 27.
 28.
 29.
