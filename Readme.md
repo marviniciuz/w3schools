@@ -86,4 +86,7 @@
 26. CSS Pseudo-classes
 27. CSS Pseudo-element
 
+### How To
+ 
+
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
