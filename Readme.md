@@ -89,5 +89,6 @@
 ### How To
 1. Slide Show
 2. Login Form
+3. Accordion
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
