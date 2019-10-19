@@ -1,6 +1,6 @@
 # W3schools - HTML, CSS, Javascript
 
-## Atualização: 18 de outubro de 2019 - 14:50
+## Atualização: 19 de outubro de 2019 - 10:46
 ## Criação: 05 de maio de 2019
 ## Prática : @douglasabnovato
 
@@ -87,6 +87,7 @@
 27. CSS Pseudo-element
 
 ### How To
+1. SlideShow
  
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
