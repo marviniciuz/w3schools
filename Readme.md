@@ -1,6 +1,6 @@
 # W3schools - HTML, CSS, Javascript
 
-## Atualização: 19 de outubro de 2019 - 10:46
+## Atualização: 19 de outubro de 2019 - 15:20
 ## Criação: 05 de maio de 2019
 ## Prática : @douglasabnovato
 
