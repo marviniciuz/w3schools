@@ -1,0 +1,3 @@
+/**
+ * Javascript do modal.html
+ */
