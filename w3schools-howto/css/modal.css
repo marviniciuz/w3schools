@@ -67,7 +67,23 @@
   }
 
   /* Add Animation */
-  @keyframes animatetop {
-    from {top: -300px; opacity: 0}
-    to {top: 0; opacity: 1}
-  }
+    @keyframes animatetop {
+        from {top: -300px; opacity: 0}
+        to {top: 0; opacity: 1}
+    }
+
+  /* Add Animation */
+    @-webkit-keyframes animatetop {
+        from {bottom: -300px; opacity: 0} 
+        to {bottom: 0; opacity: 1}
+    }
+  
+    @-webkit-keyframes fadeIn {
+        from {opacity: 0} 
+        to {opacity: 1}
+    }
+  
+    @keyframes fadeIn {
+        from {opacity: 0} 
+        to {opacity: 1}
+    }
