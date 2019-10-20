@@ -1,6 +1,6 @@
 # W3schools - HTML, CSS, Javascript
 
-## Atualização: 19 de outubro de 2019 - 15:20
+## Atualização: 20 de outubro de 2019 - 17:46
 ## Criação: 05 de maio de 2019
 ## Prática : @douglasabnovato
 
@@ -90,5 +90,6 @@
 1. Slide Show
 2. Login Form
 3. Accordion
+4. Modal 
 
 :. Css do portal w3schools : https://www.w3schools.com/css/default.asp
