@@ -15,6 +15,7 @@
 
 .w3-half{
     padding: 0 8px;
+    float: left;
 }
 
 .w3-example{
@@ -113,3 +114,4 @@
     opacity: 1;
 }
 /* the end Box */
+
