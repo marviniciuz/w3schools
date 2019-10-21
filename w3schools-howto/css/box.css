@@ -30,7 +30,6 @@
 }
 
 /* Overlay */
-
 .containerfade {
     position: relative;
     width: 50%;
@@ -71,12 +70,12 @@
     height: auto;
 }
 /* the end Overlay */
-/* Box  */
 
+/* Box  */
 .container {
     position: relative;
     width: 50%;
-  }
+}
 
 .image {
     opacity: 1;
@@ -86,6 +85,7 @@
     transition: .5s ease;
     backface-visibility: hidden;
 }
+
 .text {
     backface-visibility: hidden;
     background-color: #4CAF50;
@@ -103,13 +103,13 @@
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     text-align: center;
-  }
+}
 
-  .container:hover .image {
+.container:hover .image {
     opacity: 0.3;
-  }
+}
 
-  .container:hover .middle {
+.container:hover .middle {
     opacity: 1;
-  }
-  /* the end Box */
+}
+/* the end Box */
