@@ -48,7 +48,12 @@
 31. FullstackJS Node.js
 32. FullstackJS MySQL   
 33. FullstackJS MongoDB
-
+##### what is
+34. CLI - comand line interface
+35. npm - Software Library
+36. github - code hosting platform for collaboration and version control
+37. Full Stack Web Developer - A full stack web developer is a person who can develop both client and server software.
+38. Full Stack JavaScript - A full stack JavaScript developer is a person who can develop both client and server software
 
 ### HTML Tutorial
 1. HTML HOME
