@@ -8,6 +8,48 @@
 ![GitHub](/images/logo-github.png)
 ![HTML/CSS/JS](/images/logo-html-css-js.jpeg)
 
+### Web Development Roadmaps
+#### Front-End Roadmap
+##### STEP 1 - Learn the Basics
+1. HTML
+2. HTML HTTP / XHR
+3. CSS
+4. CSS Responsive
+5. JS Javascript
+6. JS ECMAScript 5
+##### STEP 2 - Dig Deeper
+7. HTML HTML DOM
+8. Google Maps
+9. Google Fonts
+10. Google Charts
+11. CSS Icons 
+12. JS XML
+13. JS Json 
+14. JS AJAX
+##### STEP 3 - Choose Frameworks
+15. CSS Bootstrap  
+16. CSS Material Design  
+17. CSS W3.CSS
+18. JS React.js
+19. JS Angular.js
+20. JS Vue.js
+21. JS W3.JS
+22. JS jQuery
+23. XML XSLT
+24. XML XPath
+25. XML XQuery
+#### Back-End Roadmaps
+##### STEP 4 - Back-End Roadmaps
+26. Fullstack SQL
+27. Fullstack PHP 
+28. Fullstack ASP
+29. Fullstack Python
+30. FullstackJS SQL 
+31. FullstackJS Node.js
+32. FullstackJS MySQL   
+33. FullstackJS MongoDB
+
+
 ### HTML Tutorial
 1. HTML HOME
 2. HTML Introduction
@@ -90,28 +132,6 @@
 1.
 2.
 
-### Web Development Roadmaps
-#### Front-End Roadmap
-##### STEP 1 - Learn the Basics
-1. HTML
-2. HTML HTTP / XHR
-3. CSS
-4. CSS Responsive
-5. JS Javascript
-6. JS ECMAScript 5
-##### STEP 2 - Dig Deeper
-7. HTML HTML DOM
-8. Google Maps
-9. Google Fonts
-10. Google Charts
-11. CSS Icons 
-12. JS XML
-13. JS Json 
-14. JS AJAX
-##### STEP 3 - Choose Frameworks
-15. 
-
-
 ### How To
 1. Slide Show
 2. Login Form
@@ -120,4 +140,5 @@
 5. Slide Show galery
 6. Tab
 
-:. Web do portal w3schools : https://www.w3schools.com/css/default.asp
+:. Web Development Roadmaps do portal w3schools<br>
+https://www.w3schools.com/whatis/default.asp
