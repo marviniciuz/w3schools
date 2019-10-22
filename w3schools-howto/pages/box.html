@@ -12,35 +12,51 @@
         <title>w3schools - Html - box</title>
     </head>
     <body>
-        <!-- @douglasabnovato -->
-        <h3>Image Overlay Fade</h3>
-        <p>Learn how to create a fading overlay effect to an image, on hover</p>
-        <div class="w3-content" style="max-width:800px;">
-            <div class="w3-row-padding" style="margin: 0px -16px">
-                <div class="w3-half">
-                    <div class="w3-example">
-                        <p>fade in Overlay </p>
-                        <div class="containerfade">
-                            <img src="..\images\img_avatarM.png" alt="avatar" class="imagefade" style="width:100%">
-                            <div class="overlayfade">
-                                <div class="textfade">@douglasabnovato</div>
-                            </div><!-- overlayfade --> 
-                        </div><!-- containerfade --> 
-                    </div><!-- w3-example -->
-                </div><!-- w3-half -->                                
-                <div class="w3-half">
-                    <div class="w3-example">
-                        <p>fade in box</p>
-                        <div class="container">
-                            <img src="..\images\img_avatarW.png" alt="Avatar" class="image" style="width:100%">
-                            <div class="middle">
-                                <div class="text">@douglasabnovato</div>
-                            </div><!-- middle -->                            
-                        </div><!-- container -->
-                    </div><!-- w3-example -->
-                </div><!-- w3-half -->
-            </div><!-- w3-row-padding --> 
-        </div><!-- w3-content --> 
+        
+        <div class="tab">
+            <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+            <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+            <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+        </div>
+        
+        <div id="London" class="tabcontent">
+            <div class="w3-content" style="max-width:800px;">
+                <div class="w3-row-padding" style="margin: 0px -16px">
+                    
+                    <div class="w3-half">
+                        <div class="w3-example">
+                            <p>fade in Overlay </p>
+                            <div class="containerfade">
+                                <img src="..\images\img_avatarM.png" alt="avatar" class="imagefade" style="width:100%">
+                                <div class="overlayfade">
+                                    <div class="textfade">@douglasabnovato</div>
+                                </div><!-- overlayfade --> 
+                            </div><!-- containerfade --> 
+                        </div><!-- w3-example -->
+                    </div><!-- w3-half -->
+
+                </div><!-- w3-row-padding --> 
+            </div><!-- w3-content --> 
+        </div><!-- tabcontent --> 
+
+        <div id="Paris" class="tabcontent">
+            <div class="w3-content" style="max-width:800px;">
+                <div class="w3-row-padding" style="margin: 0px -16px">
+                    <div class="w3-half">
+                        <div class="w3-example">
+                            <p>fade in box</p>
+                            <div class="container">
+                                <img src="..\images\img_avatarW.png" alt="Avatar" class="image" style="width:100%">
+                                <div class="middle">
+                                    <div class="text">@douglasabnovato</div>
+                                </div><!-- middle -->                            
+                            </div><!-- container -->
+                        </div><!-- w3-example -->
+                    </div><!-- w3-half -->
+                </div><!-- w3-row-padding --> 
+            </div><!-- w3-content --> 
+        </div><!-- tabcontent --> 
+
     </body>
     <script type="text/javascript" src="..\javascript\box.js"></script>
 </html>
