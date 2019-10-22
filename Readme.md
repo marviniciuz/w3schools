@@ -1,6 +1,6 @@
 # W3schools - HTML, CSS, Javascript
 
-## Atualização: 22 de outubro de 2019 - 13:44
+## Atualização: 22 de outubro de 2019 - 16:51
 ## Criação: 05 de maio de 2019
 ## Prática : @douglasabnovato
 
@@ -143,7 +143,7 @@
 3. Accordion
 4. Modal 
 5. Slide Show galery
-6. Tab
+6. Tab 
 
 :. Web Development Roadmaps do portal w3schools<br>
 https://www.w3schools.com/whatis/default.asp
