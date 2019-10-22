@@ -145,5 +145,8 @@
 5. Slide Show galery
 6. Tab 
 
+### Exercises
+1. HTML 
+
 :. Web Development Roadmaps do portal w3schools<br>
 https://www.w3schools.com/whatis/default.asp
