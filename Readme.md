@@ -86,11 +86,38 @@
 26. CSS Pseudo-classes
 27. CSS Pseudo-element
 
+### Javascript Tutorial
+1.
+2.
+
+### Web Development Roadmaps
+#### Front-End Roadmap
+##### STEP 1 - Learn the Basics
+1. HTML
+2. HTML HTTP / XHR
+3. CSS
+4. CSS Responsive
+5. JS Javascript
+6. JS ECMAScript 5
+##### STEP 2 - Dig Deeper
+7. HTML HTML DOM
+8. Google Maps
+9. Google Fonts
+10. Google Charts
+11. CSS Icons 
+12. JS XML
+13. JS Json 
+14. JS AJAX
+##### STEP 3 - Choose Frameworks
+15. 
+
+
 ### How To
 1. Slide Show
 2. Login Form
 3. Accordion
 4. Modal 
 5. Slide Show galery
+6. Tab
 
 :. Web do portal w3schools : https://www.w3schools.com/css/default.asp
