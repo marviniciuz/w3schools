@@ -151,6 +151,8 @@
 
 ### Exercises
 1. HTML : Completed 40 of 90 Exercises.
+2. CSS : 
+3. Javascript : 
 
 :. Web Development Roadmaps do portal w3schools<br>
 https://www.w3schools.com/whatis/default.asp
