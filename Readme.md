@@ -137,6 +137,10 @@
 26. CSS Pseudo-classes
 27. CSS Pseudo-element
 
+### W3.CSS Tutorial
+1.
+2.
+
 ### Javascript Tutorial
 1.
 2.
@@ -150,7 +154,7 @@
 6. Tab 
 
 ### Exercises
-1. HTML : Completed 90 of 90 Exercises.
+1. HTML : Completed 90 of 90 Exercises - DONE.
 2. CSS : Completed 00 of 138 Exercises.
 3. Javascript : Completed 00 of 67 Exercises.
 
