@@ -38,6 +38,8 @@
 23. XML XSLT
 24. XML XPath
 25. XML XQuery
+- ilustração
+![frontend](/images/img_frontend.jpg)
 #### Back-End Roadmaps
 ##### STEP 4 - Back-End Roadmaps
 26. Fullstack SQL
@@ -48,6 +50,8 @@
 31. FullstackJS Node.js
 32. FullstackJS MySQL   
 33. FullstackJS MongoDB
+- ilustração
+![backend](/images/img_backend.jpg)
 ##### what is
 34. CLI - comand line interface
 35. npm - Software Library
