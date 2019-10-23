@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;                
+}
+th, td {
+    padding: 15px;
+}
+th {
+    text-align: left;
+}
+.cities {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}   
