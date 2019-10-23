@@ -150,7 +150,7 @@
 6. Tab 
 
 ### Exercises
-1. HTML : Completed 40 of 90 Exercises.
+1. HTML : Completed 46 of 90 Exercises.
 2. CSS : 
 3. Javascript : 
 
