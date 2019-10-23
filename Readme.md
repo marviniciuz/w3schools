@@ -146,7 +146,7 @@
 6. Tab 
 
 ### Exercises
-1. HTML 
+1. HTML : Completed 20 of 90 Exercises.
 
 :. Web Development Roadmaps do portal w3schools<br>
 https://www.w3schools.com/whatis/default.asp
