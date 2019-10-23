@@ -2,52 +2,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <title>Cinque Terre</title>
-        <style>
-            *{
-                box-sizing: border-box;
-            }
-            .menu{
-                float:left;
-                width: 20%;
-            }
-            .menuitem{
-                padding: 8px;
-                margin-top: 7px;
-                border-bottom: 1px solid #f1f1f1;
-            }
-            .main{
-                float: left;
-                width: 60%;
-                padding: 0 20 px;
-                overflow: hidden;
-            }
-            .right {
-                background-color: lightblue;
-                float: left;
-                width: 20%;
-                padding: 10px 15px;
-                margin-top: 7px;
-            }
-            @media only screen and (max-width:800px) {
-                /* For tablets: */
-                .main {
-                    width: 80%;
-                    padding: 0;
-                }
-                .right {
-                    width: 100%;
-                }
-            }
-            @media only screen and (max-width:500px) {
-            /* For mobile phones: */
-                .menu, .main, .right {
-                    width: 100%;
-                }
-            }
-
-        </style>
+        <meta charset="UTF-8">
+        <meta name="description" content="Project of W3Schools">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
+        <meta name="author" content="douglasabnovato">
+        <meta http-equiv="refresh" content="30">
+        <link rel="stylesheet" type="text/css" href="..\css\responsive.css" /> 
+        <!-- javascript está sendo chamado no final do arquivo -->        
+        <title>w3schools - Html - Responsive</title>
     </head>
     <body style="font-family: Verdana, Geneva, Tahoma, sans-serif">
         <div style="background-color: #f1f1f1;padding:15px;">
@@ -68,7 +31,7 @@
                     depending on the weather conditions and your 
                     physical shape.
                 </p>
-                <img src="images\img_5terre.jpg" style="width:100%">
+                <img src="..\images\img_5terre.jpg" style="width:100%">
             </div>
             <div class="right">
                 <h2>What?</h2>
@@ -88,8 +51,6 @@
             web design made by w3schools.com. Resize the browser 
             window to see the content respond to the resizing.
         </div>
-        <script>
-        
-        </script>
     </body>
+    <script type="text/javascript" src="..\javascript\responsive.js"></script>
 </html>
