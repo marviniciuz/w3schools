@@ -2,36 +2,14 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="description" content="Free Web tutorials">
+        <meta name="description" content="Project of W3Schools">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="HTML, CSS, XML, JavaScript">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
         <meta name="author" content="douglasabnovato">
         <meta http-equiv="refresh" content="30">
-        <link rel="stylesheet" href="style.css">
-        <title>w3schools - HTML</title>
-        <style>
-            table, th, td {
-                border: 1px solid black;                
-            }
-            th, td {
-                padding: 15px;
-            }
-            th {
-                text-align: left;
-            }
-            .cities {
-                background-color: black;
-                color: white;
-                margin: 20px;
-                padding: 20px;
-            }
-            #myHeader {
-                background-color: lightblue;
-                color: black;
-                padding: 40px;
-                text-align: center;
-            }            
-        </style>
+        <link rel="stylesheet" type="text/css" href="..\css\index.css" /> 
+        <!-- javascript está sendo chamado no final do arquivo -->        
+        <title>w3schools - Html - Index</title>
     </head>
     <body>
         <!-- @douglasabnovato -->        
@@ -43,17 +21,17 @@
             <h1 style="background-color:MediumSeaGreen;">MediumSeaGreen</h1>
         </div>
         <div>
-            <img src="images\coffee1.jpg" alt="coffee" style="width:100px;height:100px;">
-            <img src="images\coffee2.jpg" alt="coffee" style="width:100px;height:100px;">
-            <img src="images\coffee3.jpg" alt="coffee" style="width:100px;height:100px;">
-            <img src="images\programming1.jpg" alt="programming" style="width:100px;height:100px;">
-            <img src="images\programming2.jpg" alt="programming" style="width:100px;height:100px;">
-            <img src="images\workplace.jpg" alt="programming" style="width:100px;height:100px;">
-            <img src="images\coding.jpg" alt="programming" style="width:100px;height:100px;">
-            <img src="images\avatar.png" alt="programming" style="width:100px;height:100px;">
+            <img src="..\images\coffee1.jpg" alt="coffee" style="width:100px;height:100px;">
+            <img src="..\images\coffee2.jpg" alt="coffee" style="width:100px;height:100px;">
+            <img src="..\images\coffee3.jpg" alt="coffee" style="width:100px;height:100px;">
+            <img src="..\images\programming1.jpg" alt="programming" style="width:100px;height:100px;">
+            <img src="..\images\programming2.jpg" alt="programming" style="width:100px;height:100px;">
+            <img src="..\images\workplace.jpg" alt="programming" style="width:100px;height:100px;">
+            <img src="..\images\coding.jpg" alt="programming" style="width:100px;height:100px;">
+            <img src="..\images\avatar.png" alt="programming" style="width:100px;height:100px;">
         </div>
         <div>
-            <img src="images\workplace.jpg" alt="workplace" usemap="#workmap" width="400" height="379">
+            <img src="..\images\workplace.jpg" alt="workplace" usemap="#workmap" width="400" height="379">
             <map name="workmap">
                 <area shape="rect" coords="34,44,270,350" alt="Computer" href="https://en.wikipedia.org/wiki/Mobile_phone">
                 <area shape="rect" coords="290,172,333,250" alt="Phone" href="https://en.wikipedia.org/wiki/Computer">
@@ -133,7 +111,7 @@
             <button type="button" onclick="myFunction()">click me</button>
         </div>
         <div>
-            <img id="myImage" src="pic_bulboff.gif" width="100" height="180">
+            <img id="myImage" src="..\images\pic_bulboff.gif" width="100" height="180">
             <p>
                 <button type="button" onclick="light(1)">Light On</button>
                 <button type="button" onclick="light(0)">Light Off</button>
@@ -143,30 +121,12 @@
             <h2>Using a Full URL File Path</h2>
             <img src="https://www.w3schools.com/images/picture.jpg" alt="Mountain" style="width:300px">
             <h2>Using a Relative File Path</h2>
-            <img src="images/picture.jpg" alt="Mountain" style="width:300px">
+            <img src="..\images\picture.jpg" alt="Mountain" style="width:300px">
         </div>
         <div>
             <p id="paragraphTest">A Paragraph</p>
             <button type="button" onclick="myFunction()">Try it</button>
         </div>
-        <script>
-            function myFunction(){
-                document.getElementById("demo").style.fontSize = "25px";
-                document.getElementById("demo").style.color = "red";
-                document.getElementById("demo").style.backgroundColor  = "yellow";
-            }
-            function light(sw) {
-                var pic;
-                if (sw == 0) {
-                    pic = "pic_bulboff.gif"
-                } else {
-                    pic = "pic_bulbon.gif"
-                }
-                document.getElementById('myImage').src = pic;
-            }
-            function myFunction() {
-                document.getElementById("paragraphTest").innerHTML = "Hello JavaScript!";
-            }
-        </script>
     </body>
+    <script type="text/javascript" src="..\javascript\index.js"></script>
 </html>
