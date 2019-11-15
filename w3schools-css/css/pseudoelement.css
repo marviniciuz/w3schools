@@ -30,3 +30,13 @@ h1::before {
 h1.after::after {
     content: url(../images/smiley.gif);
 }
+
+img.forest {
+    opacity: 0.5;
+    filter: alpha(opacity=50);     
+}
+  
+img.forest:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
