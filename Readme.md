@@ -1,6 +1,6 @@
 # W3schools - HTML, CSS, Javascript
 
-## Atualização: 14 de novembro de 2019 - 22:29
+## Atualização: 15 de novembro de 2019 - 13:26
 ## Criação: 05 de maio de 2019
 ## Prática : @douglasabnovato
 
@@ -155,9 +155,9 @@
 6. Tab 
 
 ### Exercises
-1. HTML : Completed 90 of 90 Exercises - DONE.
-2. CSS : Completed 00 of 138 Exercises.
-3. Javascript : Completed 00 of 67 Exercises.
+1. **HTML** : Completed 90 of 90 Exercises - DONE.
+2. **CSS** : Completed 00 of 138 Exercises.
+3. **Javascript** : Completed 00 of 67 Exercises.
 
 :. Web Development Roadmaps do portal w3schools<br>
 https://www.w3schools.com/whatis/default.asp
