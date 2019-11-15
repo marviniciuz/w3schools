@@ -181,7 +181,7 @@ div.content {
     box-shadow: 10px 10px 5px grey;
   }
   /* the-end cards */
-/* the-end polaroid */
+/* the-end cards polaroid */
   div.polaroid {
     margin-top: 17px;
     width: 250px;
@@ -192,4 +192,23 @@ div.content {
   div.polaroidcontainer {
     padding: 10px;
   }
-/* the-end polaroid */
+/* the-end cards polaroid */
+/*  card2  */
+div.card2 {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-top: 19px;
+  }
+  
+  div.card2header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 40px;
+  }
+  
+  div.card2container {
+    padding: 10px;
+  }
+  /* the end card2  */
