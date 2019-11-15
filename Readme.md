@@ -137,6 +137,15 @@
 26. CSS Pseudo-classes
 27. CSS Pseudo-element
 28. CSS Opacity/Transparency
+29. CSS Navigation Bar
+30. CSS Dropdowns
+#### CSS Advanced
+31. CSS Shadows
+
+#### CSS Responsive
+
+#### CSS Grid
+
 
 ### W3.CSS Tutorial
 1.
