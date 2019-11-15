@@ -136,6 +136,7 @@
 25. CSS Combinators
 26. CSS Pseudo-classes
 27. CSS Pseudo-element
+28. CSS Opacity/Transparency
 
 ### W3.CSS Tutorial
 1.

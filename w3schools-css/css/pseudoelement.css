@@ -22,3 +22,11 @@ p.third::first-line {
     color: #0000ff;
     font-variant: small-caps;
 }
+
+h1::before {
+    content: url(../images/smiley.gif);
+}
+
+h1.after::after {
+    content: url(../images/smiley.gif);
+}
