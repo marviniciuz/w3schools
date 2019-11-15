@@ -6,4 +6,19 @@ p::first-line{
 p::first-letter {
     color: #008000;
     font-size: xx-large;
-  }
+}
+
+p.second::first-letter {
+    color: #ff0000;
+    font-size:200%;
+}  
+
+p.third::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
+  
+p.third::first-line {
+    color: #0000ff;
+    font-variant: small-caps;
+}
