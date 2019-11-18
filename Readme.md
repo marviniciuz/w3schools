@@ -142,6 +142,7 @@
 #### CSS Advanced
 31. CSS Shadows
 32. CSS Transitions
+33. CSS Animations
 
 #### CSS Responsive
 
