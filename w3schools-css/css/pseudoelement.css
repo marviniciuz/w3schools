@@ -349,3 +349,51 @@ div.animation1 {
     to {background-color: yellow;}
   }
 /* the end transition   */
+/* tooltiptext  */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    margin-top: 12px;
+    margin-bottom: 7px;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+  /* the end tooltiptext   */
+/* newspaper  */
+  .newspaper {
+    /* Old Chrome, Safari and Opera */
+    -webkit-column-count: 3;
+    -webkit-column-gap: 40px;
+    -webkit-column-rule-style: solid;
+    -webkit-column-rule-width: 1px;
+  
+    /* Old Firefox */
+    -moz-column-count: 3;
+    -moz-column-gap: 40px;
+    -moz-column-rule-style: solid;
+    -moz-column-rule-width: 1px;
+    
+   /* >Standard syntax */
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+  }
+  /*the end newspaper*/
