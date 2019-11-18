@@ -19,6 +19,7 @@
     display: none;
 }
 /*the-end-navegação do menu*/
+
 /*pseudoelement*/
 p.textos::first-line{
     color: #ff0000;
@@ -212,3 +213,49 @@ div.card2 {
     padding: 10px;
   }
   /* the end card2  */
+/* transition Shorthand   */
+  div.transition1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-transition: width 2s linear 1s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s linear 1s;
+    margin-top: 19px;
+  }
+  
+  div.transition1:hover {
+    width: 300px;
+  } 
+ /* transform   */ 
+  div.transform2 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 2s;
+    margin-top: 19px;
+  }
+  
+  div.transform2:hover {
+    width: 300px;
+    height: 300px;
+    -webkit-transform: rotate(180deg); /* Safari */
+    transform: rotate(180deg);
+  }
+/* widthHeight3   */ 
+div.widthHeight3 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-transition: width 2s, height 4s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s, height 4s;
+    margin-top: 19px;
+  }
+  
+  div.widthHeight3:hover {
+    width: 300px;
+    height: 300px;
+  }
+
+
+/* the end transition   */
