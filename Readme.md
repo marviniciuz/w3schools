@@ -144,6 +144,7 @@
 32. CSS Transitions
 33. CSS Animations
 34. CSS Multi Columns
+35. CSS Flexbox
 #### CSS Responsive
 
 #### CSS Grid
