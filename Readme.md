@@ -150,6 +150,7 @@
 37. CSS Frameworks
 38. CSS Band Template
 39. CSS Art Template
+40. CSS Food Blog Template
 #### CSS Grid
 
 
