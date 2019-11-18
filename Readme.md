@@ -156,6 +156,7 @@
 ### W3.CSS Tutorial
 1. W3.CSS Contact Us Template
 2. W3.CSS Login User Templates
+3. W3.CSS Login Password Templates
 
 ### Javascript Tutorial
 1.
