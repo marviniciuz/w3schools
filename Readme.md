@@ -146,7 +146,8 @@
 34. CSS Multi Columns
 35. CSS Flexbox
 #### CSS Responsive
-
+36. CSS Template
+37. CSS Frameworks
 #### CSS Grid
 
 
