@@ -265,30 +265,23 @@ div.timing4 {
     transition: width 2s;
     margin-top: 10px;
   }
-  
-  /* For Safari 3.1 to 6.0 */
-    #div1 {
-      -webkit-transition-timing-function: linear;
-    }
-    #div2 {-webkit-transition-timing-function: ease;}
-    #div3 {-webkit-transition-timing-function: ease-in;}
-    #div4 {-webkit-transition-timing-function: ease-out;}
-    #div5 {
-      -webkit-transition-timing-function: ease-in-out;
-    }
-  
-  /* Standard syntax */
-    #div1 {
-      transition-timing-function: linear;
-    }
-    #div2 {transition-timing-function: ease;}
-    #div3 {transition-timing-function: ease-in;}
-    #div4 {transition-timing-function: ease-out;}
-    #div5 {
-        transition-timing-function: ease-in-out;
-    }
-  
-  div.timing4:hover {
+
+div.timing4:hover {
     width: 300px;
-  }
+}
+
+/* For Safari 3.1 to 6.0 */
+#div1 {-webkit-transition-timing-function: linear;}
+#div2 {-webkit-transition-timing-function: ease;}
+#div3 {-webkit-transition-timing-function: ease-in;}
+#div4 {-webkit-transition-timing-function: ease-out;}
+#div5 {-webkit-transition-timing-function: ease-in-out;}
+
+/* Standard syntax */
+#div1 {transition-timing-function: linear;}
+#div2 {transition-timing-function: ease;}
+#div3 {transition-timing-function: ease-in;}
+#div4 {transition-timing-function: ease-out;}
+#div5 {transition-timing-function: ease-in-out;}
+
 /* the end transition   */
