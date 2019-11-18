@@ -151,7 +151,6 @@
 38. CSS Band Template
 39. CSS Art Template
 40. CSS Food Blog Template
-41. CSS Screen 50/50 Template
 #### CSS Grid
 
 ### W3.CSS Tutorial
