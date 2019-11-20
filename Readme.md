@@ -161,6 +161,7 @@
 5. W3.CSS Places to Visit Templates
 6. W3.CSS Dashboard Templates
 7. W3.CSS Coffee Templates
+8. W3.CSS Living Room Templates
 
 ### Javascript Tutorial
 1.
