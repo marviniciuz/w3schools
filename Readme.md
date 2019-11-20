@@ -160,6 +160,7 @@
 4. W3.CSS Portal Templates
 5. W3.CSS Places to Visit Templates
 6. W3.CSS Dashboard Templates
+7. W3.CSS Coffee Templates
 
 ### Javascript Tutorial
 1.
