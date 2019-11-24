@@ -194,7 +194,7 @@
 
 ### Exercises
 1. **HTML** : Completed 90 of 90 Exercises - DONE.
-2. **CSS** : Completed 00 of 138 Exercises.
+2. **CSS** : Completed 01 of 138 Exercises.
 3. **Javascript** : Completed 00 of 67 Exercises.
 
 :. Web Development Roadmaps do portal w3schools<br>
