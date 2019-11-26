@@ -1,6 +1,6 @@
 # W3schools - HTML, CSS, Javascript
 
-## Atualização: 24 de novembro de 2019 - 19:34
+## Atualização: 26 de novembro de 2019 - 13:35
 ## Criação: 05 de maio de 2019
 ## Prática : @douglasabnovato
 
@@ -30,7 +30,7 @@
 15. CSS Bootstrap  
 16. CSS Material Design  
 17. CSS W3.CSS
-18. JS React.js
+18. JS React.js:
 19. JS Angular.js
 20. JS Vue.js
 21. JS W3.JS
