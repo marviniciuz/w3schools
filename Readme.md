@@ -164,9 +164,11 @@
 8. W3.CSS Living Room Templates
 
 ### Javascript Tutorial
-1.
-2.
+1. JS Home
+
 #### Javascript Forms
+2. JS Form
+3. JS Form API
 
 #### Javascript Objects
 
