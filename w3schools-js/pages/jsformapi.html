@@ -4,26 +4,57 @@
         <title>JS API</title>
     </head>
     <body>
+        <div>
+            <p>Enter a number and click OK:</p>
 
-        <p>Enter a number and click OK:</p>
+            <input id="test1" type="number" max="100">
+            
+            <button onclick="myFunction1()">Testar</button>
 
-        <input id="test" type="number" min="100" max="300" required>
+            <p>
+                If the number is greater than 100 (the input's max attribute), 
+                an error message will be displayed.
+            </p>
 
-        <button onclick="myFunction()">Testar</button>
+            <p id="demo1"></p>
+        </div>
+        <div>
+            <p>Enter a number and click OK:</p>
 
-        <p>If the number is less than 100 or greater than 300, an error message will be displayed.</p>
-
-        <p id="demo"></p>
+            <input id="test2" type="number" min="100" max="300" required>
+    
+            <button onclick="myFunction2()">Testar</button>
+    
+            <p>
+                If the number is less than 100 or greater than 300,
+                 an error message will be displayed.
+            </p>
+    
+            <p id="demo2"></p>
+        </div>
+        
 
         <script>
-            function myFunction() {
-                var inpObj = document.getElementById("test");
-                if (!inpObj.checkValidity()) {
-                    document.getElementById("demo").innerHTML = inpObj.validationMessage;
+
+            function myFunction1() {
+                var txt = "";
+                if (document.getElementById("test1").validity.rangeOverflow) {
+                    txt = "Value too large";
                 } else {
-                    document.getElementById("demo").innerHTML = "Input OK";
+                    txt = "Input OK";
+                } 
+                document.getElementById("demo1").innerHTML = txt;
+            }
+
+            function myFunction2() {
+                var inpObj = document.getElementById("test2");
+                if (!inpObj.checkValidity()) {
+                    document.getElementById("demo2").innerHTML = inpObj.validationMessage;
+                } else {
+                    document.getElementById("demo2").innerHTML = "Input OK";
                 } 
             } 
+
         </script>
 
     </body>
