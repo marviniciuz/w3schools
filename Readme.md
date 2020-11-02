@@ -1,25 +1,53 @@
-## W3schools - HTML, CSS, Javascript
+<h3 align="center">
+  W3schools 🚀
+</h3>
 
-### Atualização: 09 de janeiro de 2020 - 18:29
-### Criação: 05 de maio de 2019
-### published : NO
-### finished : OK
-### Prática : @douglasabnovato
+---
+<br>
 
-![Git](/images/logo-git.png)
-![GitHub](/images/logo-github.png)
-![HTML/CSS/JS](/images/logo-html-css-js.jpeg)
+![Resultado da Aplicação](/images/aplicacao-terminada.jpg)
+
+### O que é a aplicação
+
+- A prática das atividades do portal W3schools
+
+#### Tecnologias/ Ferramentas/ Bibliotecas
+
+- html, css, js e HowTo
+
+#### Código + Dependências
+
+- git clone "http"
+- Rodar a aplicação: Open Live Server
+
+#### Passo a passo do projeto 
+
+- [x] 1. Funcionalidades em JS
+- [x] 2. Estrutura HTML 
+- [x] 3. Estilização CSS 
+
+#### Próximo passo na aplicação
+
+- Link para o artigo da aplicação
+
+#### Anotações   
+
+- Fonte do projeto: [Web Development Roadmaps do portal w3schools](https://www.w3schools.com/whatis/default.asp)
 
 ### Web Development Roadmaps
 #### Front-End Roadmap
+
 ##### STEP 1 - Learn the Basics
+
 1. HTML
 2. HTML HTTP / XHR
 3. CSS
 4. CSS Responsive
 5. JS Javascript
 6. JS ECMAScript 5
+
 ##### STEP 2 - Dig Deeper
+
 7. HTML HTML DOM
 8. Google Maps
 9. Google Fonts
@@ -28,7 +56,9 @@
 12. JS XML
 13. JS Json 
 14. JS AJAX
+
 ##### STEP 3 - Choose Frameworks
+
 15. CSS Bootstrap  
 16. CSS Material Design  
 17. CSS W3.CSS
@@ -40,10 +70,14 @@
 23. XML XSLT
 24. XML XPath
 25. XML XQuery
+
 - ilustração
 ![frontend](/images/img_frontend.jpg)
+
 #### Back-End Roadmaps
+
 ##### STEP 4 - Back-End Roadmaps
+
 26. Fullstack SQL
 27. Fullstack PHP 
 28. Fullstack ASP
@@ -52,9 +86,12 @@
 31. FullstackJS Node.js
 32. FullstackJS MySQL   
 33. FullstackJS MongoDB
+
 - ilustração
 ![backend](/images/img_backend.jpg)
+
 ##### what is
+
 34. CLI - comand line interface
 35. npm - Software Library
 36. github - code hosting platform for collaboration and version control
@@ -62,6 +99,7 @@
 38. Full Stack JavaScript - A full stack JavaScript developer is a person who can develop both client and server software
 
 ### HTML Tutorial
+
 1. HTML HOME
 2. HTML Introduction
 3. HTML Editors
@@ -77,11 +115,7 @@
 13. HTML Colors
 14. HTML Styles - CSS
 15. HTML Links
-16. HTML Images
-- image
-- image map
-- background
-- picture element
+16. HTML Images: image, image map, background, picture element
 17. HTML Tables
 18. HTML Lists
 19. HTML Block and Inline Elements
@@ -99,11 +133,14 @@
 31. HTML Encoding (Character Sets)
 32. HTML Uniform Resource Locators
 33. HTML and XHTML
+
 #### HTML Forms
+
 34. HTML Forms
 35. HTML Form Elements
 36. HTML Input Types
 37. HTML Input Attributes
+
 #### HTML APIs
 #### HTML Multimedia
 #### HTML5 Canvas
@@ -141,21 +178,27 @@
 28. CSS Opacity/Transparency
 29. CSS Navigation Bar
 30. CSS Dropdowns
+
 #### CSS Advanced
+
 31. CSS Shadows
 32. CSS Transitions
 33. CSS Animations
 34. CSS Multi Columns
 35. CSS Flexbox
+
 #### CSS Responsive
+
 36. CSS Template
 37. CSS Frameworks
 38. CSS Band Template
 39. CSS Art Template
 40. CSS Food Blog Template
+
 #### CSS Grid
 
 ### W3.CSS Tutorial
+
 1. W3.CSS Contact Us Template
 2. W3.CSS Login User Templates
 3. W3.CSS Login Password Templates
@@ -166,29 +209,25 @@
 8. W3.CSS Living Room Templates
 
 ### Javascript Tutorial
+
 1. JS Home
 
 #### Javascript Forms
+
 2. JS Form
 3. JS Form API
 
 #### Javascript Objects
-
 #### Javascript Functions
-
 #### Javascript HTML DOM
-
 #### Javascript Browser BOM
-
 #### Javascript AJAX
-
 #### Javascript JSON
-
 #### Javascript JS vs jQuery
-
 #### Javascript Examples
 
 ### How To
+
 1. Slide Show
 2. Login Form
 3. Accordion
@@ -201,5 +240,7 @@
 2. **CSS** : Completed 81 of 138 Exercises - css combinators - DONE.
 3. **Javascript** : Completed 00 of 67 Exercises.
 
-:. Web Development Roadmaps do portal w3schools<br>
-https://www.w3schools.com/whatis/default.asp
+---
+<br>
+
+.: Por [Douglas A B Novato](https://linktr.ee/douglasabnovato)
