@@ -34,7 +34,7 @@
 ### Web - v1.0
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="w3schools" title="#w3schools" src="./images/aplicação-terminada.jpg" width="400px">
+  <img alt="w3schools" title="#w3schools" src="./images/aplicacao-terminada.jpg" width="400px">
 </p> 
 
 - Fonte do projeto: [Web Development Roadmaps do portal w3schools](https://www.w3schools.com/whatis/default.asp)
