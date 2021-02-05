@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="W3schools" title="#W3schools" src="/images/aplicação-terminada.jpg" />
+    <img alt="W3schools" title="#W3schools" src="/images/aplicacao-terminada.jpg" />
 </h1>
 
 ---
