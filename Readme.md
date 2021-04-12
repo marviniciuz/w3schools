@@ -25,11 +25,10 @@
  
 ## 🎨 Layout
 
-- [x] 1. Funcionalidades em JS
+- [x] 1. Funções em JS
 - [x] 2. Estrutura HTML 
 - [x] 3. Estilização CSS 
-
-- html, css, js e HowTo
+- [x] 4. Funcionalidades HowTo
 
 ### Web - v1.0
 
@@ -241,7 +240,7 @@
 6. Tab 
 
 ### Exercises
-1. **HTML** : Completed 90 of 90 Exercises - DONE.
+1. **HTML** : Completed 90 of 90 Exercises - 2x DONE.
 2. **CSS** : Completed 81 of 138 Exercises - css combinators - DONE.
 3. **Javascript** : Completed 00 of 67 Exercises.
 
