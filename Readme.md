@@ -240,9 +240,9 @@
 6. Tab 
 
 ### Exercises
-1. **HTML** : Completed 90 of 90 Exercises - 2x DONE.
-2. **CSS** : Completed 81 of 138 Exercises - css combinators - DONE.
-3. **Javascript** : Completed 00 of 67 Exercises - DOING.
+1. **HTML** : Completed 88 of 88 Exercises - 2x DONE.
+2. **CSS** : Completed 138 of 138 Exercises - css combinators - DONE.
+3. **Javascript** : Completed 67 of 67 Exercises - DONE.
 
 ## 🛠 Tecnologias
 
